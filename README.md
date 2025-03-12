@@ -52,19 +52,12 @@ I'm a Machine Learning Engineer passionate about building end-to-end ML systems 
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashak2000&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashak2000&theme=tokyonight&hide_border=true" alt="Streak Stats" height="170px"/>
-</div>
-
 ## 🚀 Featured Projects
 
 ### ModelLab: Evolution of Text Generation Models
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aakashak2000/aakashak2000/tree/main/assets/ModelLab_logo.png" alt="ModelLab Logo" width="200px"/>
+  <img src="https://raw.githubusercontent.com/aakashak2000/aakashak2000/main/assets/ModelLab_logo.png" alt="ModelLab Logo" width="350px"/>
 </div>
 
 ModelLab is a comprehensive project exploring the evolution of neural language models from basic RNNs to transformer-based architectures:
@@ -84,6 +77,7 @@ ModelLab is a comprehensive project exploring the evolution of neural language m
   </a>
 </div>
 
+<!-- 
 <details>
   <summary><b>📁 More Projects</b></summary>
   
@@ -99,6 +93,7 @@ ModelLab is a comprehensive project exploring the evolution of neural language m
   - Optimized models using quantization and pruning techniques
   - Built custom data pipelines for real-time video processing
 </details>
+-->
 
 ## 💡 Skills
 
