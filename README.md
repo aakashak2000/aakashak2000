@@ -1,7 +1,7 @@
 # Hello, I'm Aakash 👋 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;MLOps+Practitioner;Algorithm+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;MLOps+Practitioner;Algorithm+Specialist" alt="Typing SVG" />
   
   <p>Building intelligent systems that solve real-world problems</p>
   
@@ -19,8 +19,6 @@ I'm a Machine Learning Engineer passionate about building end-to-end ML systems 
 - 🌱 Learning: Transformer architectures, multimodal learning, and LLM deployment strategies
 - 👯 Looking to collaborate on: Open-source ML projects and research
 - 💬 Ask me about: Deep learning, MLOps, optimization algorithms, or cloud deployment
-
-
 
 ## 🛠️ Tech Stack
 
@@ -45,30 +43,29 @@ I'm a Machine Learning Engineer passionate about building end-to-end ML systems 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ### Development Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aakashak2000&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashak2000&theme=tokyonight&hide_border=true" alt="Streak Stats" height="170px"/>
 </div>
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/yourusername/ModelLab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ModelLab&theme=dark" alt="ModelLab" />
-</a>
-
-</div>
-
 ### ModelLab: Evolution of Text Generation Models
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/aakashak2000/aakashak2000/main/modellab_logo.svg" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aakashak2000/aakashak2000/main/modellab_logo.svg" alt="ModelLab Logo" width="200px"/>
+</div>
 
 ModelLab is a comprehensive project exploring the evolution of neural language models from basic RNNs to transformer-based architectures:
 
@@ -78,74 +75,72 @@ ModelLab is a comprehensive project exploring the evolution of neural language m
 - **Performance Analysis**: Conducted comparative analysis across model architectures
 - **Interactive Visualizations**: Developed notebooks for exploring model behavior and output
 
-<p align="center">
-  <a href="https://github.com/yourusername/ModelLab">View Project</a> •
-  <a href="https://github.com/yourusername/ModelLab/blob/main/notebooks/02_model_comparison.ipynb">Explore Notebooks</a>
-</p>
+<div align="center">
+  <a href="https://github.com/aakashak2000/ModelLab">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+  <a href="https://github.com/aakashak2000/ModelLab/blob/main/notebooks/02_model_comparison.ipynb">
+    <img src="https://img.shields.io/badge/Explore_Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Explore Notebooks"/>
+  </a>
+</div>
 
-<!-- 
 <details>
-<summary>Show More Projects</summary>
-
-### Project 2: Cloud-Native ML Pipeline
-
-- Engineered an end-to-end ML pipeline on Google Cloud Platform
-- Implemented CI/CD workflows for model training and deployment
-- Developed monitoring solutions for production model performance
-- [View Project](https://github.com/aakashak2000/cloud-ml-pipeline)
-
-### Project 3: Computer Vision on Edge Devices
-
-- Designed lightweight CNN architectures for edge deployment
-- Optimized models using quantization and pruning techniques
-- Built custom data pipelines for real-time video processing
-- [View Project](https://github.com/aakashak2000/edge-vision)
-
+  <summary><b>📁 More Projects</b></summary>
+  
+  ### Cloud-Native ML Pipeline
+  
+  - Engineered an end-to-end ML pipeline on Google Cloud Platform
+  - Implemented CI/CD workflows for model training and deployment
+  - Developed monitoring solutions for production model performance
+  
+  ### Computer Vision on Edge Devices
+  
+  - Designed lightweight CNN architectures for edge deployment
+  - Optimized models using quantization and pruning techniques
+  - Built custom data pipelines for real-time video processing
 </details>
--->
 
-## 📈 Skills
+## 💡 Skills
 
 <div align="center">
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <img width="100%" src="https://media.giphy.com/media/3oEjHQn7PBRvy9A5mE/giphy.gif" alt="Deep Learning Animation">
-      <h3>Deep Learning & AI</h3>
-      <details open>
-        <summary><b>Expand Skills</b></summary>
-        <br>
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Deep Learning"/>
+        <h3>Deep Learning & AI</h3>
         <p align="left">
           <b>⚙️ Architectures:</b> CNNs, RNNs, LSTMs, Transformers, GANs<br>
-          <b>🔠 NLP:</b> Text generation, sentiment analysis, text classification<br>
-          <b>👁️ Computer Vision:</b> Object detection, image classification, segmentation<br>
-          <b>🎮 Reinforcement Learning:</b> Policy gradient methods, Q-learning
+          <b>🔠 NLP:</b> Text generation, sentiment analysis, classification<br>
+          <b>👁️ Computer Vision:</b> Object detection, image segmentation<br>
+          <b>🎮 RL:</b> Policy gradient methods, Q-learning
         </p>
-      </details>
-    </td>
-    <td width="33%" align="center">
-      <img width="100%" src="https://media.giphy.com/media/PhTSmzCqkliqIJ9ZtZ/giphy.gif" alt="MLOps Animation">
-      <h3>MLOps & Cloud</h3>
-      <details open>
-        <summary><b>Expand Skills</b></summary>
-        <br>
+      </td>
+      <td width="33%" align="center">
+        <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="MLOps"/>
+        <h3>MLOps & Cloud</h3>
         <p align="left">
-          <b>🚀 Deployment:</b> Model serving, API development, containerization<br>
-          <b>📊 Monitoring:</b> Model performance tracking, data drift detection<br>
+          <b>🚀 Deployment:</b> Model serving, API development, containers<br>
+          <b>📊 Monitoring:</b> Model performance, data drift detection<br>
           <b>⚙️ Orchestration:</b> Workflow automation, CI/CD pipelines<br>
-          <b>☁️ Cloud Services:</b> GCP AI Platform, Azure ML, custom VM deployments
+          <b>☁️ Cloud:</b> GCP AI Platform, Azure ML, custom deployments
         </p>
-      </details>
-    </td>
-    <td width="33%" align="center">
-      <img width="100%" src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" alt="Algorithms Animation">
-      <h3>Data Structures & Algorithms</h3>
-      <details open>
+      </td>
+      <td width="33%" align="center">
+        <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Algorithms"/>
+        <h3>Data & Algorithms</h3>
+        <p align="left">
+          <b>🔍 Analysis:</b> Statistical methods, hypothesis testing<br>
+          <b>📊 Visualization:</b> Interactive dashboards, data storytelling<br>
+          <b>🧮 Algorithms:</b> Optimization, search, graph algorithms<br>
+          <b>🔄 Streaming:</b> Real-time data processing, ETL pipelines
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 📊 Weekly Development Breakdown
+## 📈 Weekly Coding Stats
 
-<!--START_SECTION:waka-->
 ```text
 Python       12 hrs 17 mins  ███████████░░░░░░░░░░░  52.3%
 Jupyter      4 hrs 42 mins   ██████░░░░░░░░░░░░░░░░  20.1%
@@ -153,19 +148,26 @@ YAML         2 hrs 10 mins   ████░░░░░░░░░░░░░
 Markdown     1 hr 32 mins    ███░░░░░░░░░░░░░░░░░░░   6.5%
 Bash         1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░   4.8%
 ```
-<!--END_SECTION:waka-->
 
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://calendly.com/yourusername"><img src="https://img.shields.io/badge/Schedule%20a%20Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/yourusername"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://huggingface.co/yourusername"><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge"/></a>
+  <a href="mailto:aakashak2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://calendly.com/aakashak2000">
+    <img src="https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Calendly"/>
+  </a>
+  <a href="https://www.kaggle.com/aakashak2000">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://huggingface.co/aakashak2000">
+    <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge" alt="Hugging Face"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aakashak2000&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
