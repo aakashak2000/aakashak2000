@@ -64,7 +64,7 @@ I'm a Machine Learning Engineer passionate about building end-to-end ML systems 
 ### ModelLab: Evolution of Text Generation Models
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aakashak2000/aakashak2000/main/ModelLab_logo.png" alt="ModelLab Logo" width="200px"/>
+  <img src="https://raw.githubusercontent.com/aakashak2000/aakashak2000/assets/ModelLab_logo.png" alt="ModelLab Logo" width="200px"/>
 </div>
 
 ModelLab is a comprehensive project exploring the evolution of neural language models from basic RNNs to transformer-based architectures:
