@@ -5,10 +5,10 @@
   
   <p>Building intelligent systems that solve real-world problems</p>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername) 
-  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yourusername) 
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourusername) 
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/yourusername)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakashak2k) 
+  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aakashak2000) 
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aakashak2k) 
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/aakashak2000)
 </div>
 
 ## 🧠 About Me
@@ -20,13 +20,7 @@ I'm a Machine Learning Engineer passionate about building end-to-end ML systems 
 - 👯 Looking to collaborate on: Open-source ML projects and research
 - 💬 Ask me about: Deep learning, MLOps, optimization algorithms, or cloud deployment
 
-<details>
-<summary>📊 GitHub Stats</summary>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
-</details>
+
 
 ## 🛠️ Tech Stack
 
@@ -74,7 +68,7 @@ I'm a Machine Learning Engineer passionate about building end-to-end ML systems 
 
 ### ModelLab: Evolution of Text Generation Models
 
-<img align="right" width="300" src="https://via.placeholder.com/300x180.png?text=ModelLab+Visualization" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/aakashak2000/aakashak2000/main/modellab_logo.svg" />
 
 ModelLab is a comprehensive project exploring the evolution of neural language models from basic RNNs to transformer-based architectures:
 
@@ -89,6 +83,7 @@ ModelLab is a comprehensive project exploring the evolution of neural language m
   <a href="https://github.com/yourusername/ModelLab/blob/main/notebooks/02_model_comparison.ipynb">Explore Notebooks</a>
 </p>
 
+<!-- 
 <details>
 <summary>Show More Projects</summary>
 
@@ -97,46 +92,56 @@ ModelLab is a comprehensive project exploring the evolution of neural language m
 - Engineered an end-to-end ML pipeline on Google Cloud Platform
 - Implemented CI/CD workflows for model training and deployment
 - Developed monitoring solutions for production model performance
-- [View Project](https://github.com/yourusername/cloud-ml-pipeline)
+- [View Project](https://github.com/aakashak2000/cloud-ml-pipeline)
 
 ### Project 3: Computer Vision on Edge Devices
 
 - Designed lightweight CNN architectures for edge deployment
 - Optimized models using quantization and pruning techniques
 - Built custom data pipelines for real-time video processing
-- [View Project](https://github.com/yourusername/edge-vision)
+- [View Project](https://github.com/aakashak2000/edge-vision)
 
 </details>
+-->
 
 ## 📈 Skills
 
 <div align="center">
 
-### Deep Learning & AI
-```
-Architectures: CNNs, RNNs, LSTMs, Transformers, GANs
-NLP: Text generation, sentiment analysis, text classification
-Computer Vision: Object detection, image classification, segmentation
-Reinforcement Learning: Policy gradient methods, Q-learning
-```
-
-### MLOps & Cloud
-```
-Deployment: Model serving, API development, containerization
-Monitoring: Model performance tracking, data drift detection
-Orchestration: Workflow automation, CI/CD pipelines
-Cloud Services: GCP AI Platform, Azure ML, custom VM deployments
-```
-
-### Data Structures & Algorithms
-```
-Algorithm Design: Dynamic programming, graph algorithms, optimization
-Data Structures: Advanced tree structures, hash maps, priority queues
-Complexity Analysis: Runtime and space optimization
-Problem Solving: Competitive programming experience, algorithm contests
-```
-
-</div>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img width="100%" src="https://media.giphy.com/media/3oEjHQn7PBRvy9A5mE/giphy.gif" alt="Deep Learning Animation">
+      <h3>Deep Learning & AI</h3>
+      <details open>
+        <summary><b>Expand Skills</b></summary>
+        <br>
+        <p align="left">
+          <b>⚙️ Architectures:</b> CNNs, RNNs, LSTMs, Transformers, GANs<br>
+          <b>🔠 NLP:</b> Text generation, sentiment analysis, text classification<br>
+          <b>👁️ Computer Vision:</b> Object detection, image classification, segmentation<br>
+          <b>🎮 Reinforcement Learning:</b> Policy gradient methods, Q-learning
+        </p>
+      </details>
+    </td>
+    <td width="33%" align="center">
+      <img width="100%" src="https://media.giphy.com/media/PhTSmzCqkliqIJ9ZtZ/giphy.gif" alt="MLOps Animation">
+      <h3>MLOps & Cloud</h3>
+      <details open>
+        <summary><b>Expand Skills</b></summary>
+        <br>
+        <p align="left">
+          <b>🚀 Deployment:</b> Model serving, API development, containerization<br>
+          <b>📊 Monitoring:</b> Model performance tracking, data drift detection<br>
+          <b>⚙️ Orchestration:</b> Workflow automation, CI/CD pipelines<br>
+          <b>☁️ Cloud Services:</b> GCP AI Platform, Azure ML, custom VM deployments
+        </p>
+      </details>
+    </td>
+    <td width="33%" align="center">
+      <img width="100%" src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" alt="Algorithms Animation">
+      <h3>Data Structures & Algorithms</h3>
+      <details open>
 
 ## 📊 Weekly Development Breakdown
 
