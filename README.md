@@ -299,8 +299,8 @@ Automation: Conflict Resolution System
 ### 🔥 **Quick Access**
 
 [![View All Repositories](https://img.shields.io/badge/View_All_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakashak2000?tab=repositories)
-[![Star My Projects](https://img.shields.io/badge/⭐_Star_My_Projects-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/aakashak2000)
-[![Fork & Contribute](https://img.shields.io/badge/🍴_Fork_&_Contribute-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakashak2000)
+[![Star My Projects](https://img.shields.io/badge/⭐_Star_My_Projects-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/aakashak2000/ForecastingAgent)
+[![Fork & Contribute](https://img.shields.io/badge/🍴_Fork_&_Contribute-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakashak2000/ForecastingAgent)
 
 **💡 Want to collaborate?** Each project is actively maintained and welcomes contributions!
 
