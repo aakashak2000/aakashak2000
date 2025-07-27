@@ -6,9 +6,9 @@
 
 *Building intelligent systems that bridge the gap between cutting-edge research and production reality*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakashak2k)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashak2000@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-00AA22?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.medium.com/@aakashak2000)
 
 ---
 
@@ -427,7 +427,7 @@ I'm always excited to discuss:
 - 💡 Innovative project ideas
 - 🚀 Production AI system architecture
 
-**📫 Reach out:** [your-email@domain.com](mailto:your-email@domain.com)
+**📫 Reach out:** [aakashak2000@gmail.com](mailto:aakashak2000@gmail.com)
 
 ---
 
@@ -450,9 +450,6 @@ I'm always excited to discuss:
 
 ---
 
-<div align="center">
-<img src="https://profile-counter.glitch.me/aakashak2000/count.svg" />
-</div>
 
 <!-- Footer -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
